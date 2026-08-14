@@ -426,4 +426,3 @@ if submitted:
         # ── Session History ──
         st.subheader("Session History")
         st.dataframe(df)
-exit()
